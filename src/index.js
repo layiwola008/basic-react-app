@@ -1,22 +1,22 @@
-// //basic starting code 
-// import React from 'react'
-// import ReactDOM from 'react-dom'
-// import './index.css'
-// import RouletteGun from './state-drills/RouletteGun'
+//basic starting code 
+import React from 'react'
+import ReactDOM from 'react-dom'
+import './index.css'
+import RouletteGun from './state-drills/RouletteGun'
 
-// ReactDOM.render(
+ReactDOM.render(
   
-//         <RouletteGun />
-//         ,
-//   document.getElementById('root')
-// )
+        <RouletteGun />
+        ,
+  document.getElementById('root')
+)
 
 //2.
-import React from 'react';
-import ReactDOM from 'react-dom';
+// import React from 'react';
+// import ReactDOM from 'react-dom';
 
-// Write code here:
-ReactDOM.render(
-  <h1> {2 + 3}</h1> ,
-  document.getElementById('app')
-); 
+// // Write code here:
+// ReactDOM.render(
+//   <h1> {2 + 3}</h1> ,
+//   document.getElementById('app')
+// ); 
